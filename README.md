@@ -7,12 +7,14 @@ C command line program which takes some input values from the user and performs 
 ##### Input
 
 Please provide lower temperature limit (In celcius):
-[ 11 ]   return
+[ 11 ]
+<br/>
 Please provide upper temperature limit (In celcius):
-[ 18 ]   return
+[ 18 ]
+<br/>
 Please provide a step to increase the temperature with:
-[ 2 ]   return
-
+[ 2 ]
+<br/>
 ##### Output
 
 Celcius         Fahrenheit
