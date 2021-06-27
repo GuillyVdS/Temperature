@@ -19,8 +19,8 @@ Please provide a step to increase the temperature with:
 
 Celcius         Fahrenheit
 -------         ----------
-11.00           51.80
-13.00           55.40
-15.00           59.00
-17.00           62.60
+11.00           51.80 <br/>
+13.00           55.40 <br/>
+15.00           59.00 <br/>
+17.00           62.60 <br/>
 --------------------------
